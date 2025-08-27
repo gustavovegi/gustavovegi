@@ -1,4 +1,4 @@
-a href="https://github.com/gustavovegi/github-readme-stats">
+<a href="https://github.com/gustavovegi/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=gustavovegi&show_icons=true&theme=dark" />
 
 <a href="https://github.com/gustavovegi/convoychat">
