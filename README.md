@@ -1,11 +1,14 @@
-<a href="https://github.com/gustavovegi/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=gustavovegi&show_icons=true&theme=dark" />
+<a href="https://github.com/gustavovegi">
+  <img height=150 align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=gustavovegi&show_icons=true&bg_color=a3accd&icon_color=70011b&title_color=70011b&text_color=70011b" />
+</a>
 
-<a href="https://github.com/gustavovegi/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavovegi&layout=compact&langs_count=8&card_width=320&theme=dark" />
+<a href="https://github.com/gustavovegi">
+  <img height=150 align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavovegi&layout=compact&langs_count=8&card_width=320&bg_color=a3accd&title_color=70011b&text_color=70011b" />
 </a><br/>
 
-### Let's add:
+### Connections :
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-vegi-ribeiro-b2b1a2272/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.vegi/)
 
