@@ -1,6 +1,4 @@
-### Hi there, my name is Gustavo Vegi ✌️
-
-<a href="https://github.com/gustavovegi/github-readme-stats">
+a href="https://github.com/gustavovegi/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=gustavovegi&show_icons=true&theme=dark" />
 
 <a href="https://github.com/gustavovegi/convoychat">
@@ -20,9 +18,3 @@
     <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </div>
 
-### Currently Studying:
-
-<div style="display: inline_block">
-      <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"/>
-</div>
